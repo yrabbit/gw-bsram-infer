@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="60" Alu="24" Lut="99">
+ <SubModule name="image" Lut="8" Bsram="2"/>
+ <SubModule name="vmem" Bsram="1"/>
+</Module>
